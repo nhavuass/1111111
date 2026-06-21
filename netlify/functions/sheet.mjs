@@ -1,6 +1,6 @@
 const SHEET_ID = '1mj-dSVUGGdC8EdrnV0ALFxJtZOq5XQk1CE1cKSeVvvk';
 const SHEET_URL =
-	'https://script.google.com/macros/s/AKfycbybDMBEBSRwLFAB96qRi58lIyyjVHtM1bM43aqJ6oP-j5nT_J_VMYhXEANlyn6Q7yy3/exec';
+	'https://script.google.com/macros/s/AKfycbxL_vm_l2mW55MACqGTQn6gWXzv5sH0iIko7hQ3SJLc2ZjMqA3IZM8JdywwG2WpathT/exec';
 
 export default async (req) => {
 	try {
