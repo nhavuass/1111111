@@ -1,6 +1,6 @@
-const SHEET_ID = '1w9xSxr5KW_FpiwDfRZfX3QSVxpo2NCYMGgOjyq3InnE';
+const SHEET_ID = '1mj-dSVUGGdC8EdrnV0ALFxJtZOq5XQk1CE1cKSeVvvk';
 const SHEET_URL =
-	'https://script.google.com/macros/s/AKfycbxp9t6-txkFRcGNH4Oo9VfnaX3Tt5nh6QnPv-lDfd4H-82AXkc1uEBrcKOAZqBJQinQ/exec';
+	'https://script.google.com/macros/s/AKfycbybDMBEBSRwLFAB96qRi58lIyyjVHtM1bM43aqJ6oP-j5nT_J_VMYhXEANlyn6Q7yy3/exec';
 
 export default async (req) => {
 	try {
